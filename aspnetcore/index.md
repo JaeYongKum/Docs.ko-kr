@@ -29,7 +29,7 @@ ASP.NET Core는 클라우드 기반 인터넷에 연결된 최신 응용 프로�
 
 ## <a name="why-use-aspnet-core"></a>ASP.NET Core를 사용하는 이유는 무엇인가요?
 
-수백만 명의 개발자가 ASP.NET을 사용하여 웹 앱을 만들었습니다(계속 사용 중). ASP.NET Core는 간결한 모듈식 프레임워크를 만드는 아키텍처 변경 내용을 포함한 ASP.NET의 새로운 디자인입니다.
+수백만 명의 개발자가 ASP.NET을 사용하여 웹 앱을 만들었습니다(계속 사용 중). ASP.NET Core는 간결한 모듈식 프레임워크를 만드는 아키텍처 변경 내용을 포함한 ASP.NET의 새로운 설계입니다.
 
 ASP.NET Core는 다음과 같은 이점을 제공합니다.
 
@@ -51,7 +51,7 @@ ASP.NET Core는 완전히 [NuGet](https://www.nuget.org/) 패키지로 제공됩
 ASP.NET Core MVC에서는 [웹 API](xref:tutorials/index#building-web-apis) 및 [웹앱](xref:tutorials/index#building-web-applications)을 빌드하는 데 유용한 기능을 제공합니다.
 
 * [MVC(모델-뷰-컨트롤러) 패턴](xref:mvc/overview)을 통해 웹 API 및 웹앱을 [테스트 가능](testing/index.md)하게 합니다.
-* [Razor 페이지](xref:mvc/razor-pages/index)(2.0의 새로운 기능)는 웹 UI를 쉽게 빌드하고 생산성을 높일 수 있는 페이지 기반 프로그래밍 모델합니다.
+* [Razor 페이지](xref:mvc/razor-pages/index)(2.0의 새로운 기능)는 웹 UI를 쉽게 빌드하고 생산성을 높일 수 있는 페이지 기반 프로그래밍 모델입니다.
 * [Razor 구문](xref:mvc/views/razor)은 [Razor 페이지](xref:mvc/razor-pages/index) 및 [MVC 뷰](xref:mvc/views/overview)에 생산적인 언어를 제공합니다.
 * [태그 도우미](xref:mvc/views/tag-helpers/intro)를 사용하면 서버 쪽 코드를 Razor 파일에서 HTML 요소를 만들고 렌더링하는 데 사용할 수 있습니다.
 * [여러 데이터 형식 및 콘텐츠 협상](mvc/models/formatting.md)에 대한 기본 제공 지원을 통해 웹 API를 브라우저 및 모바일 장치를 포함한 다양한 클라이언트에 연결할 수 있습니다.
